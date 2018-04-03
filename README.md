@@ -19,13 +19,13 @@ KO : 의존성이 설치되면 다음과 같이 Express 프로젝트를 시작�
     npm run app.js
 
 
-# Resources
+# Resources / version
 EN : Must be installed, We recommend the latest version.
 
 KO : 필수 설치 항목, 최신 버전을 추천 드립니다.
 
-Couchabse - http://www.couchbase.com
+Couchabse - http://www.couchbase.com    ||  5.1 ver
 
-R - https://www.r-project.org/
+R - https://www.r-project.org/  ||  3.4.3 ver
 
-Node.js - https://nodejs.org/en/
+Node.js - https://nodejs.org/en/    ||  8.10 ver
